@@ -1,0 +1,5 @@
+# uscan(1) configuration file.
+version=4
+
+https://github.com/d2g/dhcp4client/releases \
+  .*/archive/v?(\d[-\d\.]+)\.tar\.gz
